@@ -13,27 +13,31 @@
 
 - 📫 How to reach me **domsab@hotmail.com**
 
-### Skills and Experience
-
- - PHP, MySQL & Laravel
-
- - JavaScript, Vuejs & Astro
-
-- HTML, CSS3 & Tailwind
-
--  SOLID, TDD, Domain Driven Design
-
-- Application Design
-
--  UI & UX Design
-
-### Currently Learning
-
-- Docker & Kubernetes 
-
-- Terraform
-
-- Go & Solidity
+<table width="100%" style="width:100%">
+	<tr>
+		<td style="font-size:16px; font-weight:bold">Skills & Experience</td>
+		<td style="font-size:16px; font-weight:bold">Currently Learning</td>
+	</tr>
+	<tr>
+		<td>
+			<ul>
+				<li>PHP, MySQL & Laravel</li>
+				<li>JavaScript, Vuejs & Astro</li>
+				<li>HTML, CSS3 & Tailwind</li>
+				<li>SOLID, TDD, Domain Driven Design</li>
+				<li>Application Design</li>
+				<li>UI & UX Design</li>
+			</ul>
+		</td>
+		<td>
+			<ul>
+				<li>Docker & Kubernetes</li>
+				<li>Terraform & AWS</li>
+				<li>Go , HTMX & Solidity</li>
+			</ul>
+		</td>
+	</tr>
+</table>
 
 ### Connect with me:
 
