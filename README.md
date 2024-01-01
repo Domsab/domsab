@@ -7,8 +7,7 @@ Having spent most of my career as a lead developer i am currently expanding my t
 - 🔭 I’m currently working on **donuts**
 - 🌱 I’m currently learning **Docker, Go, Kubernetes & Terraform**
 - 👨‍💻 All of my projects are available at [Liteworks Studios](https://www.liteworks-studio.co.uk)
-- 📝 I regularly write articles on my [portfolio](https://www.domsab.dev)
-- 📧 You can reach me at  **domsab@hotmail.com** 
+- 📝 I write articles on my [portfolio](https://www.domsab.dev)
 
 ### 🔥 Skills and Experience
 
@@ -28,7 +27,18 @@ Having spent most of my career as a lead developer i am currently expanding my t
 - Terraform
 - Go & Solidity
 
-### 📫 Connect with me
+### ⚡ Recent Side-Projects
+
+-
+-
+-
+-
+
+### 📫 How to reach me
+
+- 👨‍💻Personal Website [portfolio](https://www.domsab.dev)
+- Linkedin 
+- 📧 Email: **domsab@hotmail.com**
 
 <p align="left">
 <a href="https://linkedin.com/in/dominic-sabatini-81512777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominic-sabatini-81512777" height="30" width="40" /></a>
