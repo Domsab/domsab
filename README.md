@@ -33,7 +33,6 @@ Having spent most of my career as a lead developer i am currently expanding my t
 
 - Donuts
 - Corner Shop
-- Magic Money Wallet
 
 ## 📫 How to reach me
 
