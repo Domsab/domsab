@@ -24,9 +24,10 @@ Having spent most of my career as a lead developer i am currently expanding my t
 ## 🏫 Currently Learning
 
 - Docker & Kubernetes 
-- Terraform
-- Go & Solidity
 - AWS Qualifications
+- Terraform
+- Go & Node.js
+
 
 ## ⚡ Recent Side-Projects
 
