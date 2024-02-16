@@ -26,18 +26,18 @@ Having spent most of my career as a lead developer i am currently expanding my t
 - Docker & Kubernetes 
 - Terraform
 - Go & Solidity
+- AWS Qualifications
 
 ## ⚡ Recent Side-Projects
 
--
--
--
--
+- Donuts
+- Corner Shop
+- Magic Money Wallet
 
 ## 📫 How to reach me
 
 - 👨‍💻Personal Website [portfolio](https://www.domsab.dev)
-- Linkedin 
+- [Linkedin](https://www.linkedin.com/in/domsab)
 - 📧 Email: **domsab@hotmail.com**
 
 ---
