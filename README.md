@@ -36,8 +36,8 @@ Having spent most of my career as a lead developer i am currently expanding my t
 
 ## 📫 How to reach me
 
-- 👨‍💻Personal Website [portfolio](https://www.domsab.dev)
-- [Linkedin](https://www.linkedin.com/in/domsab)
+- 👨‍💻 Personal Website [portfolio](https://www.domsab.dev)
+- 📘 [Linkedin](https://www.linkedin.com/in/domsab) profile
 - 📧 Email: **domsab@hotmail.com**
 
 ---
